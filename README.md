@@ -21,7 +21,10 @@ Three tasks were achieved in this project. The given input images represent a se
 # Note
 
 The "images" and "templates" folders have to be created manually, as the code only creates the "results", "output_images", and "templates_processed" folders automatically.
-The folder structure should look something like this: 
-<img width="211" alt="image" src="https://github.com/user-attachments/assets/999f2c6d-7438-4bd6-98c2-28968b3091ff" />
+The folder structure should look something like this.
+
+<img width="211" alt="image" src="https://github.com/user-attachments/assets/4cb79efd-5be5-493a-a61d-bb3b7399006e" />
+
+
 
 
